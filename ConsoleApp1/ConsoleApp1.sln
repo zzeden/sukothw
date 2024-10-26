@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathPrj", "MathPrj\MathPrj.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "random.proj", "random.proj\random.proj.csproj", "{64457148-DE71-4E2D-B347-EDA7EA6ECDC6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casting.prj", "Casting.prj\Casting.prj.csproj", "{8D570E5E-056A-4C36-A3A9-AE991AB3273F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCII PRJ", "ASCII PRJ\ASCII PRJ.csproj", "{17707EDE-C9CE-4C32-8FBB-BC8404C5F375}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{64457148-DE71-4E2D-B347-EDA7EA6ECDC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64457148-DE71-4E2D-B347-EDA7EA6ECDC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64457148-DE71-4E2D-B347-EDA7EA6ECDC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D570E5E-056A-4C36-A3A9-AE991AB3273F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D570E5E-056A-4C36-A3A9-AE991AB3273F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D570E5E-056A-4C36-A3A9-AE991AB3273F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D570E5E-056A-4C36-A3A9-AE991AB3273F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17707EDE-C9CE-4C32-8FBB-BC8404C5F375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17707EDE-C9CE-4C32-8FBB-BC8404C5F375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17707EDE-C9CE-4C32-8FBB-BC8404C5F375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17707EDE-C9CE-4C32-8FBB-BC8404C5F375}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
